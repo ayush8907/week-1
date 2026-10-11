@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Designing for the Quiet Moments",
+    "excerpt": "Why the best digital experiences leave room to breathe, focus, and think.",
+    "category": "Design",
+    "author": "Maya Bennett",
+    "date": "2026-09-18",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=85",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "A Beginner's Guide to React Components",
+    "excerpt": "Break an interface into small, reusable pieces and make your code easier to maintain.",
+    "category": "Development",
+    "author": "Alex Morgan",
+    "date": "2026-09-12",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=85",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Building Better Daily Habits",
+    "excerpt": "Small, consistent routines can create more meaningful progress than big bursts of effort.",
+    "category": "Lifestyle",
+    "author": "Nina Patel",
+    "date": "2026-09-08",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "What Makes a Good Side Project?",
+    "excerpt": "A practical way to choose projects that teach you something and solve a real problem.",
+    "category": "Development",
+    "author": "Jordan Lee",
+    "date": "2026-08-29",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=85",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Finding Inspiration in Everyday Places",
+    "excerpt": "A walk, a notebook, or a new perspective can be enough to get your creativity moving.",
+    "category": "Creativity",
+    "author": "Sam Rivera",
+    "date": "2026-08-21",
+    "readTime": "3 min read",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=85",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "The Case for Learning in Public",
+    "excerpt": "Share your process, document what you learn, and make room for useful conversations.",
+    "category": "Ideas",
+    "author": "Taylor Kim",
+    "date": "2026-08-15",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1455390582262-044caca277ad?auto=format&fit=crop&w=1200&q=85",
+    "featured": false
+  }
+]
